@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"rachik_actor","characterIndex":0,"characterName":"rachik_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"rachik_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rachik","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"rachik_actor","characterIndex":0,"characterName":"rachik_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"rachik_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Le sage","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"stephen_actor","characterIndex":0,"characterName":"stephen_walk","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"stephen_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stephen","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"adeline_actor","characterIndex":0,"characterName":"adeline_walk","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"adeline_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adeline","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
