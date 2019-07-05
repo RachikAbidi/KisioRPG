@@ -12,5 +12,5 @@ null,
 {"id":10,"expanded":false,"name":"Floor_2_Bresil","order":11,"parentId":0,"scrollX":772,"scrollY":487.3333333333333},
 {"id":11,"expanded":false,"name":"Floor_6_Bathroom","order":12,"parentId":0,"scrollX":772,"scrollY":487.3333333333333},
 {"id":12,"expanded":false,"name":"Transition","order":3,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":13,"expanded":false,"name":"Labyrinth","order":13,"parentId":0,"scrollX":992.4,"scrollY":624.6}
+{"id":13,"expanded":false,"name":"Labyrinth","order":13,"parentId":0,"scrollX":1234.8,"scrollY":675}
 ]
